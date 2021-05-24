@@ -1,0 +1,3 @@
+SHELL ==>
+Shell is a program that reads commands form a terminal and executes them (using matching between commands names and executables in usr/bin).
+Shell is a programing language (it is syntax to be interpreted by shell) allows users to create scripts to do series of commands.
