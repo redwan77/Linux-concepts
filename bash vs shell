@@ -1,3 +1,9 @@
-SHELL ==>
-Shell is a program that reads commands form a terminal and executes them (using matching between commands names and executables in usr/bin).
-Shell is a programing language (it is syntax to be interpreted by shell) allows users to create scripts to do series of commands.
+SHELL ==> Shell is more like a specification and has many implimentations.
+
+SHELL is a program that reads commands form a terminal and executes them (using matching between commands names and executables in /bin/sh or /bin/bash /bin/csh).
+SHELL is a programing language (it is syntax to be interpreted by shell) allows users to create scripts to do series of commands.
+there is many SHELLs in linux, one of whish is BASH, whish is the default shell in obuntu is an advanced version of SH (conatains more executables).
+-- POSIX is the standard that specifies how shells must be.
+
+BASH is the advancement of SHELL it has more executables in its directory (/bin/bash) and has great features in its syntax. 
+-- BASH is the default interpreter in linux and mac os.
