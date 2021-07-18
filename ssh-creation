@@ -1,0 +1,8 @@
+// CREATE AN SSH KEY PAIR
+- ssh-keygen -t ed25519  -C "red.hammouti7@gmail.com"
+
+// START THE SSH AGENT (windows open-ssh)
+- ssh-agent -s
+
+// ADD THE GENERATED PRIVATE KEY TO THE SSH-AGENT
+- ssh-add ~/.ssh/id_ed25519
